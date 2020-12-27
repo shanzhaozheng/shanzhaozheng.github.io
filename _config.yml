@@ -25,7 +25,7 @@ runtime:
   second: 00  #秒
 
 # 网址配置
-url:  http://shan_zhao_zheng.gitee.io/blog/ #填写你当前博客的网站域名 注意！！！ 域名必须正确填写，且带协议头(http://或https://)。若不填域名或填写有误则一些模块则无法使用！(比如文章分享)
+url:  http://shanzhaozheng.github.io  #填写你当前博客的网站域名 注意！！！ 域名必须正确填写，且带协议头(http://或https://)。若不填域名或填写有误则一些模块则无法使用！(比如文章分享)
 root: /     # 如果您的站点放在子目录中，请将URL设置为“http://yoursite.com/子目录名称”，将root设置为“/子目录名称/”
 permalink: :year/:title.html
 permalink_defaults:
