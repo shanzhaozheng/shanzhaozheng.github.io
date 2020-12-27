@@ -333,11 +333,11 @@ css_minifier:
 deploy:
 # coding
 - type: git    
-  repository: https://hexo.io/docs/deployment.html
-  branch: master
+  repository: https://github.com/shanzhaozheng/shanzhaozheng.github.io.git
+  branch: dev
 ## 码云
 - type: git
-  repository: https://hexo.io/docs/deployment.html
+  repository: https://gitee.com/shan_zhao_zheng/shan_zhao_zheng.git
   branch: dev
 
 
